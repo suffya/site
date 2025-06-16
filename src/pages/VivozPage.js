@@ -83,7 +83,7 @@ export default function VivozPage(){
                                         <Link to="/cvetnoy-lom/" className="text-orange-500 hover:underline"> "В-лом"</Link>
                                         </strong> Специальный транспорт имеется не у всех желающих сдать металлолом, особенно если собралось на территории большое количество металлического лома. Наша скупка предлагает услуги по самовывозу с вашего места дислокации лома черных и цветных металлов, бытового металлолома, металлических отходов. Оформить заявку на вывоз легко у диспетчера по телефону: 
                                         &nbsp;
-                                        <Link to="/cvetnoy-lom/" className="text-orange-500 hover:underline"> +7 (978) 160-61-36.</Link>
+                                        <Link to="/cvetnoy-lom/" className="text-orange-500 hover:underline"> +7 (978) 234-94-01.</Link>
                                     </p>
                                 </div>
                             </div>

@@ -217,12 +217,12 @@ const Header = () => {
             {/* Mobile Phone and Social Icons */}
             {isMobile && (
               <div className="flex flex-col items-center justify-center">
-                <a href="tel:+79781606136" className="text-orange-400 text-lg font-medium">
-                  +7 (978) 160-61-36
+                <a href="tel:+79782349401" className="text-orange-400 text-lg font-medium">
+                  +7 (978) 234-94-01
                 </a>
                 <div className="flex mt-1">
                   <a 
-                    href="https://wa.me/79781606136" 
+                    href="https://wa.me/79782349401" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="mr-4"
@@ -234,7 +234,7 @@ const Header = () => {
                     />
                   </a>
                   <a 
-                    href="https://t.me/Osman_usmanov" 
+                    href="https://t.me/Metal_in_Crimea" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
@@ -253,14 +253,14 @@ const Header = () => {
               <div className="hidden md: md:items-center md:justify-center absolute right-0 left-0">
                 <div className="flex items-center">
                   <div className="text-center">
-                    <a href="tel:+79781606136" className="text-orange-400 block text-base font-medium">
-                      +7 (978) 160-61-36
+                    <a href="tel:+79782349401" className="text-orange-400 block text-base font-medium">
+                      +7 (978) 234-94-01
                     </a>
                     <span className="text-white text-xs">Прием металлолома</span>
                   </div>
                   <div className="flex ml-2">
                     <a 
-                      href="https://wa.me/79781606136" 
+                      href="https://wa.me/79782349401" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="mx-1"
@@ -272,7 +272,7 @@ const Header = () => {
                       />
                     </a>
                     <a 
-                      href="https://t.me/Osman_usmanov" 
+                      href="https://t.me/Metal_in_Crimea" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="mx-1"
@@ -360,8 +360,8 @@ const Header = () => {
             {(isSmallDesktop || (isLargeDesktop && !isExtraLarge)) && (
               <div className="hidden md:block lg:block  mr-4">
                 <div className="text-center xl-range:text-end">
-                  <a href="tel:+79781606136" className="lg:text- text-orange-400 block text-lg font-medium">
-                    +7 (978) 160-61-36
+                  <a href="tel:+79782349401" className="lg:text- text-orange-400 block text-lg font-medium">
+                    +7 (978) 234-94-01
                   </a>
                   <span className="text-white text-sm xl-range:hidden">Прием металлолома</span>
                 </div>
@@ -382,8 +382,8 @@ const Header = () => {
             {isExtraLarge && (
               <div className="hidden md:block lg:block mr-4">
                 <div className="text-right">
-                  <a href="tel:+79781606136" className="text-orange-400 block text-lg font-medium">
-                    +7 (978) 160-61-36
+                  <a href="tel:+79782349401" className="text-orange-400 block text-lg font-medium">
+                    +7 (978) 234-94-01
                   </a>
                   <span className="text-white text-sm">Прием металлолома</span>
                 </div>

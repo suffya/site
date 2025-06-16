@@ -76,7 +76,7 @@ const ContactInfo = () => {
           href="tel:+79781606136" 
           className="text-orange-400 hover:text-orange-300 transition-colors text-lg font-medium"
         >
-          +7 (978) 160-61-36
+          +7 (978) 234-94-01
         </a>
       </div>
     </div>
@@ -165,7 +165,7 @@ const InfoSection = () => {
               href="tel:+79781606136" 
               className="text-orange-600 hover:text-orange-700 font-semibold"
             >
-              +7 (978) 160-61-36
+              +7 (978) 234-94-01
             </a>
             .
           </p>

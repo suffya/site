@@ -10,7 +10,7 @@ export default function Footer() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-sm">
           <div className='text-left text-[#b8b3b1]'>
-            <a href="tel:+79781606136" className="text-orange-400 font-semibold block mb-2">+7 (978) 160-61-36</a>
+            <a href="tel:+79781606136" className="text-orange-400 font-semibold block mb-2">+7 (978) 234-94-01</a>
             <p className="mb-2">★ Пункт приема<br />95001, Россия, республика Крым, Симферополь, ул. Трансформаторная, 3Б<br />Режим работы: Круглосуточно, без выходных</p>
             <p className="mb-2">★ Пункт приема<br />ул. Коммунальная, 29А<br />Режим работы: Круглосуточно, без выходных</p>
             <a href="mailto:osman-usmanov@internet.ru" className="text-orange-400 text-2xl hover:text-white duration-300">osman-usmanov@internet.ru</a>
